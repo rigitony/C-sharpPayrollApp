@@ -1,0 +1,10 @@
+C:\Users\Tony\Desktop\RIO Classes\CIS162AD C-sharp I\FINAL PROJECT\Anthony Griego C-sharp FINAL PROJECT\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Tony\Desktop\RIO Classes\CIS162AD C-sharp I\FINAL PROJECT\Anthony Griego C-sharp FINAL PROJECT\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\Tony\Desktop\RIO Classes\CIS162AD C-sharp I\FINAL PROJECT\Anthony Griego C-sharp FINAL PROJECT\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Tony\Desktop\RIO Classes\CIS162AD C-sharp I\FINAL PROJECT\Anthony Griego C-sharp FINAL PROJECT\Payroll\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Tony\Desktop\RIO Classes\CIS162AD C-sharp I\FINAL PROJECT\Anthony Griego C-sharp FINAL PROJECT\Payroll\Payroll\obj\Debug\Payroll.frmMain.resources
+C:\Users\Tony\Desktop\RIO Classes\CIS162AD C-sharp I\FINAL PROJECT\Anthony Griego C-sharp FINAL PROJECT\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Tony\Desktop\RIO Classes\CIS162AD C-sharp I\FINAL PROJECT\Anthony Griego C-sharp FINAL PROJECT\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Tony\Desktop\RIO Classes\CIS162AD C-sharp I\FINAL PROJECT\Anthony Griego C-sharp FINAL PROJECT\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\RIO Classes\CIS162AD C-sharp I\FINAL PROJECT\Anthony Griego C-sharp FINAL PROJECT\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\Tony\Desktop\RIO Classes\CIS162AD C-sharp I\FINAL PROJECT\Anthony Griego C-sharp FINAL PROJECT\Payroll\Payroll\obj\Debug\Payroll.pdb
